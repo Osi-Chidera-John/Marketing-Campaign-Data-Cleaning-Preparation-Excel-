@@ -114,7 +114,7 @@ This project shows that I can:
 ## 📬 Contact Me
 
 - 📧 Email: chiderajohn519@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/john-chidera-osi-0b6b55319/  
 
 ---
 
