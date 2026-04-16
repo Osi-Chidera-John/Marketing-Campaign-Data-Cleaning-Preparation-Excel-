@@ -119,7 +119,7 @@ This project shows that I can:
 ---
 
 ## 🔗 Project Link
-https://github.com/Osi-Chidera-John/Marketing-Campaign-Data-Cleaning-Preparation-Excel-/blob/main/marketing_campaign_Project.xlsx
+ Explore here [Open Work](https://github.com/Osi-Chidera-John/Marketing-Campaign-Data-Cleaning-Preparation-Excel-/blob/main/marketing_campaign_Project.xlsx)
 
 ---
 
