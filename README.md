@@ -114,9 +114,7 @@ This project shows that I can:
 ## 📬 Contact Me
 
 - 📧 Email: chiderajohn519@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/john-chidera-osi-0b6b55319/  
-
----
+- 💼 LinkedIn: https://www.linkedin.com/in/john-chidera-jr-0b6b55319/
 
 ## 🔗 Project Link
  Explore here [Open Work](https://github.com/Osi-Chidera-John/Marketing-Campaign-Data-Cleaning-Preparation-Excel-/blob/main/marketing_campaign_Project.xlsx)
